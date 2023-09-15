@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stroke_width">2dp</dimen>
+    <dimen name="dash_path_effect">5dp</dimen>
+    <dimen name="offset_y">4dp</dimen>
+</resources>

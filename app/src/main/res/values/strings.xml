@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ruhmielApp</string>
+    <string name="accent">Accents</string>
+    <string name="paragraph">In French, an accent mark over a letter can make a new sound.</string>
+    <string name="text_to_underline">accent mark</string>
+</resources>
